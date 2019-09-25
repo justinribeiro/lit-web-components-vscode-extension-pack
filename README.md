@@ -3,7 +3,7 @@
 > An opinionated set of extensions I find useful for developing LitElement Web
 > Components
 
-[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/justinribeiro.litelement-web-components-extension-pack.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=justinribeiro.litelement-web-components-extension-pack) [![Current Release](https://vsmarketplacebadge.apphb.com/version/justinribeiro.litelement-web-components-extension-pack.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=justinribeiro.litelement-web-components-extension-pack
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/justinribeiro.litelement-web-components-extension-pack.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=justinribeiro.litelement-web-components-extension-pack) [![Current Release](https://vsmarketplacebadge.apphb.com/version/justinribeiro.litelement-web-components-extension-pack.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=justinribeiro.litelement-web-components-extension-pack)
 
 ## Install
 ```
