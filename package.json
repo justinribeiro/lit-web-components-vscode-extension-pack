@@ -3,6 +3,7 @@
     "displayName": "LitElement Web Components Extension Pack",
     "description": "A set of extensions to make developing LitElement web components a little easier.",
     "version": "0.0.3",
+    "icon": "images/logo.png",
     "publisher": "justinribeiro",
     "engines": {
         "vscode": "^1.38.0"
