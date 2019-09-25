@@ -32,9 +32,9 @@ Essentials on any toolbelt, LitElement or not.
 
 ## Utilities
 
-[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - I can't spell, so sue me.
-[change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word
-[Rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap) - Re-wraps comments and other text to a given line length.
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - I can't spell, so sue me.
+- [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word
+- [Rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap) - Re-wraps comments and other text to a given line length.
 
 ## Suggestions
 
