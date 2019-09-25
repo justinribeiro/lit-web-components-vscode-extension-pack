@@ -2,7 +2,7 @@
     "name": "litelement-web-components-extension-pack",
     "displayName": "LitElement Web Components Extension Pack",
     "description": "A set of extensions to make developing LitElement web components a little easier.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "justinribeiro",
     "engines": {
         "vscode": "^1.38.0"
@@ -15,7 +15,7 @@
         "type": "git",
         "url": "https://github.com/justinribeiro/lit-web-components-vscode-extension-pack.git"
     },
-    "keywords" : [
+    "keywords": [
         "LitElement",
         "LitHTML",
         "Web Components",
