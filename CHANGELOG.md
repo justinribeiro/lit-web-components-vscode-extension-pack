@@ -1,3 +1,6 @@
+## [0.0.4]
+- Add logo
+
 ## [0.0.3]
 - Fix readme
 
