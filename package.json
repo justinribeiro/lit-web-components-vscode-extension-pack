@@ -25,7 +25,7 @@
     ],
     "extensionDependencies": [
         "HookyQR.JSDocTagComplete",
-        "auchenberg.vscode-browser-preview",
+        "ms-vscode.live-server",
         "christian-kohler.npm-intellisense",
         "DavidAnson.vscode-markdownlint",
         "dbaeumer.vscode-eslint",
